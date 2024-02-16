@@ -10,7 +10,7 @@ function createTriangle(height) {
     console.log(row);
   }
 }
-createTriangle(4);
+createTriangle(5);
 
 // Exercise 2
 function FizzBuzz(n) {
