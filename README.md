@@ -5,4 +5,5 @@ Exercise ini digunakan melatih logika dasar selama pelajaran berlangsung, sepert
 Cara melakukan cloning pada github ini:
 Lakukan perintah ini di Command Prompt:
 ```command prompt
-git clone <nama_url>
+git clone https://github.com/ronaldj220/exercise-fundamental.git
+
